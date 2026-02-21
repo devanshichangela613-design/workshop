@@ -1,3 +1,3 @@
 # workshop
-this is new containt
-project for understanding
+this is new containt.
+project for understanding.
